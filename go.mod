@@ -1,4 +1,6 @@
-module github.com/xeipuuv/gojsonschema
+module github.com/rhardt-pivotal/gojsonschema
+
+go 1.14
 
 require (
 	github.com/stretchr/testify v1.3.0
